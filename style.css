@@ -141,11 +141,12 @@ h1 {
   .list-inline li {
     list-style: none;
     text-align: center;
+    display: inline;
   }
   
   .list-inline i {
     font-size: 50px;
-    color: grey;
+    color: lightgray;
     letter-spacing: 30px;
   }
   
